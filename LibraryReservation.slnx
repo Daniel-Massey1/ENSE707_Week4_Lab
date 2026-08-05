@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/docs/">
+    <File Path="RTM.md" />
+  </Folder>
   <Project Path="LibraryReservation.Tests/LibraryReservation.Tests.csproj" />
   <Project Path="LibraryReservation/LibraryReservation.csproj" />
 </Solution>

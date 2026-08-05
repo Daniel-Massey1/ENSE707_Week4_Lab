@@ -40,7 +40,7 @@ namespace LibraryReservation.Tests
         [TestMethod]
         public void Member_EmptyMemberId_ThrowsException()
         {
-            Assert.ThrowsException<ArgumentException>(() => new Member("", "Aroha Smith"));
+            Assert.ThrowsExactly<ArgumentException>(() => new Member("", "Aroha Smith"));
         }
 
         [TestMethod]
