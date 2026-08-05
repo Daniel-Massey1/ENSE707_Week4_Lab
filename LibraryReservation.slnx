@@ -4,4 +4,6 @@
   </Folder>
   <Project Path="LibraryReservation.Tests/LibraryReservation.Tests.csproj" />
   <Project Path="LibraryReservation/LibraryReservation.csproj" />
+  <Project Path="PrescriptionRefill.Tests/PrescriptionRefill.Tests.csproj" />
+  <Project Path="PrescriptionRefill/PrescriptionRefill.csproj" />
 </Solution>
